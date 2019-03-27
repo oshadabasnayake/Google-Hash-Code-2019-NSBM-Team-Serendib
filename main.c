@@ -1,7 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
-
+//oshe ravanz
+//oshada97
+//ceberus labs
 int main()
 {
    int num;
